@@ -7,32 +7,7 @@ A rainfall animation for CLI / unix terminals written in python.
 The rain changes intensity over time.
 
 
-## Installation
-
-
-### Debian
-
-Installation :
-
-`sudo dpkg -i rainfall.deb`
-
-Uninstallation :
-
-`sudo apt remove rainfall`
-
-
-### Fedora
-
-Installation :
-
-`sudo rpm -i rainfall.rpm`
-
-Uninstallation :
-
-`sudo dnf remove rainfall`
-
-
-### without installation
+### Installation
 
 Download [rainfall.py](source/rainfall.py?raw=true) and run
 `python3 rainfall.py` or just `rainfall.py`
